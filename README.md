@@ -5,7 +5,7 @@ date: '23/05/18'
 ---
 
 ## Use case
-To determine fuzzy rough dependency degree of features based on [Improving fuzzy-rough quick reduct for feature selection](https://ieeexplore.ieee.org/document/5955425/) which can be used as a fitness function of evolutionary algorithms
+To determine fuzzy rough dependency degree of features based on [New Approaches to Fuzzy-Rough Feature Selection](https://ieeexplore.ieee.org/document/4505335/) which can be used as a fitness function of evolutionary algorithms
 
 
 ## Compile
