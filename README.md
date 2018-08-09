@@ -9,7 +9,7 @@ To determine fuzzy rough dependency degree of features based on [New Approaches 
 
 
 ## Compile
-This code can be run using MATLAB R2006a and above
+This code can be run using [MATLAB](https://www.mathworks.com/products/matlab.html) R2006a and above
 
 ## Run
 To run the code, call `dpendency.m` function with two inputs, address to a dataset and a binary vector with size of features of the dataset. For instance, calling the function with `dependency('Data/wine.csv', [0 0 0 1 0 1 0 1 1 0 0 0 0])` would calculate fuzzy rough dependency degree of selected features {4, 6, 8 ,9} for `wine.csv` dataset.
